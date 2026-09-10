@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Web Scraping</title>
+  <desc id="desc">Curated tools, libraries, and guides for extracting public data from the web.</desc>
+  <rect width="1200" height="260" rx="20" fill="#0b1220"/>
+  <g fill="none" stroke="#25334a" stroke-width="1"><path d="M0 65H1200M0 130H1200M0 195H1200M200 0V260M400 0V260M600 0V260M800 0V260M1000 0V260"/></g>
+  <rect x="48" y="40" width="5" height="180" rx="2" fill="#5eead4"/>
+  <text x="78" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#5eead4">HTTP FIRST. BROWSER SECOND. RESPECT THE ORIGIN.</text>
+  <text x="76" y="132" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="44" font-weight="700" fill="#f1f5f9">Awesome Web Scraping</text>
+  <text x="78" y="177" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="28" fill="#cbd5e1">Tools, libraries and infrastructure</text>
+  <text x="78" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#94a3b8">HTTP / PARSERS / BROWSERS / LLM EXTRACTORS</text>
+  <g fill="none" stroke="#5eead4" stroke-width="3">
+    <circle cx="1032" cy="130" r="64"/>
+    <ellipse cx="1032" cy="130" rx="26" ry="64"/>
+    <path d="M968 130H1096M1032 66V194M978 96H1086M978 164H1086"/>
+  </g>
+</svg>
