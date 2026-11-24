@@ -229,6 +229,7 @@ When you want queues, proxies, browsers, and a dashboard without building them.
 - [ParseHub](https://www.parsehub.com) — Visual scraper, desktop app.
 - [Octoparse](https://www.octoparse.com) — Visual cloud scraper.
 - [Diffbot](https://www.diffbot.com) — Automatic article / product / discussion extraction.
+- [SoldFetch](https://soldfetch.com) — Independent REST API and hosted MCP server for researching public eBay sold and active listings and retrieving item details.
 
 Prefer official data products first: many of these vendors also sell datasets so you never hit the site.
 
